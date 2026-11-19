@@ -6,6 +6,8 @@ Control brightness and volume of external monitors right from the macOS menu bar
 
 ![DisBright – External Monitor Brightness & Volume Control for macOS](screenshots/disbright.png)
 
+**Download:** [latest release](../../releases/latest) → unzip, move DisBright to Applications. On first launch right-click → Open (the app is not notarized).
+
 **Build:** macOS 13+, Xcode Command Line Tools → `./build_app.sh`
 
 Feedback and ideas are welcome – just open an [issue](../../issues).
