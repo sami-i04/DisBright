@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/icon.png" width="128" alt="DisBright app icon"></p>
+
 # DisBright – External Monitor Brightness & Volume Control for macOS
 
 Control brightness and volume of external monitors right from the macOS menu bar, including the keyboard brightness and volume keys. A free alternative to BetterDisplay, MonitorControl and Lunar.
