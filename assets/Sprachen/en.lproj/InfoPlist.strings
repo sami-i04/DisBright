@@ -1,0 +1,1 @@
+"NSAudioCaptureUsageDescription" = "DisBright adjusts the volume of devices without their own volume control (e.g. displays) by passing the sound on at a lower level. Nothing is recorded or stored.";
